@@ -1,0 +1,7 @@
+pandas
+pystan
+prophet
+plotly
+cufflinks
+qutils
+© 2021 GitHub
