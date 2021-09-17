@@ -11,3 +11,6 @@ Datasets:
 - https://datahub.io/JohnSnowLabs/country-and-continent-codes-list#data
 
 Team members: Diego Batista, Rogério Chinen and Tsuyoshi Fukuda
+
+Dashboard at Streamlit:
+- https://share.streamlit.io/tvfukuda/lc-mod2-proj2/main/dash.py
